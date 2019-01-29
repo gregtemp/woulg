@@ -1,5 +1,7 @@
 
-```Hello, thank you for visiting woulg on the internet. This site is under construction. In the meantime, please check out:
+Hello, thank you for visiting woulg on the internet. This site is under construction. In the meantime, please check out:
+
+```markdown
 
 ### Where to find woulg on the net
 
