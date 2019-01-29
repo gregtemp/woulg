@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Where to find woulg on the net
 
-You can use the [editor on GitHub](https://github.com/gregtemp/woulg/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[BANDCAMP] (https://www.woulg.bandcamp.com)  [FACEBOOK](https://facebook.com/woulg.music)  [GUMROAD](https://gumroad.com/woulg)
+[WR-DEVICES](https://www.woulg-related.bandcamp.com)  [YOUTUBE](https://youtube.com/user/woulg)  [SPOTIFY](https://open.spotify.com/artist/7sGE6AJGKOubMEQ6LMIMKI)
 
 ### Markdown
 
